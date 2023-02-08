@@ -1,0 +1,9 @@
+{
+	"name": "bajajdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "81e2a953-074f-467c-bbf8-cbad285e1c2b",
+		"tenantId": "30bf9f37-d550-4878-9494-1041656caf27"
+	}
+}
